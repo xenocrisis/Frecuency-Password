@@ -1,8 +1,10 @@
 # Frecuency-Password 🔒🎶🔓
 Encrypt data with sound frecuency.
 <hr>
-<code>pip3 install -r requirements.txt</code>
-<code>git clone https://github.com/HotAndLonely/Frecuency-Password.git</code>
+<ul>
+  <li><code>pip3 install -r requirements.txt</code></li>
+  <li><code>git clone https://github.com/HotAndLonely/Frecuency-Password.git</code></li>
+</ul>
 <h2>How works?</h2>
 <ul>
 <li>Set the password separate by comma, each number is a Frecuency in Hz</li>
