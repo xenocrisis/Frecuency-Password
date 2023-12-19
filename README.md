@@ -2,8 +2,8 @@
 Encrypt data with sound frecuency. (Experimental concept)
 <hr>
 <ul>
-  <li><code>pip3 install -r requirements.txt</code></li>
   <li><code>git clone https://github.com/HotAndLonely/Frecuency-Password.git</code></li>
+  <li><code>pip3 install -r requirements.txt</code></li>
 </ul>
 <h2>How works?</h2>
 <ul>
