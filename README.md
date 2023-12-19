@@ -1,5 +1,5 @@
 # Frecuency-Password 🔒🎶🔓
-Encrypt data with sound frecuency.
+Encrypt data with sound frecuency. (Experimental concept)
 <hr>
 <ul>
   <li><code>pip3 install -r requirements.txt</code></li>
